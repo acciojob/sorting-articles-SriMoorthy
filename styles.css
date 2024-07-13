@@ -1,28 +1,2 @@
 /*  your css code here. If applicable */
-body{
-    margin: 0px;
-    padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
-    background-image: url('https://www.fao.org/images/newsroomlibraries/breafing-notes/36949400340_030e4ae5f9_oab4ccd35-fd6a-4230-bd2e-f0113f50357d.jpg?sfvrsn=426ca1c_3');
-}
 
-div{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#band{
-    width: 350px;
-    height: 800px;
-    background-color: white;
-    border: 1px solid black;
-	background-size: cover;
-	color: #333;
-} 
-
-#band li{
-    margin-top: 20px;
-    padding: 5px;
-    margin-bottom: 33px;
-}
